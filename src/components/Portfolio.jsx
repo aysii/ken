@@ -16,7 +16,7 @@ const ProjectDetails = () => {
             <h2 className="text-3xl text-gray-200 font-bold mb-4">Project #1 - Sari-Sari Store System</h2>
             
             <p className="text-3xl text-gray-150 mt-4 font-bold mb-4">To assist our client in managing her supplies and inventories, we develop a system.
-            DCIT55</p>
+            </p>
             
           </>
         )}
