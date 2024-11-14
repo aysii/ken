@@ -6,7 +6,7 @@
 
 body {
     background: rgb(1,72,113);
-    background: linear-gradient(130deg, rgba(1,72,113,1) 0%, rgba(198,218,208,1) 100%);
+    background: linear-gradient(130deg, rgb(255, 88, 227) 0%, rgb(245, 106, 250) 100%);
     font-family: "Inter", sans-serif;
 }
 

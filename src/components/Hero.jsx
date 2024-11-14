@@ -2,7 +2,7 @@ import React from 'react'
 import { AiFillFacebook, AiFillGithub, AiFillInstagram } from 'react-icons/ai'
 
 import notebookL from '../assets/50e66aef-8191-4406-b73f-f4a03821f04b.jpg'
-import notebookM from '../assets/1497f2fc-d952-4a91-8bc5-9c64b22ed219.jpg'
+
 
 const Hero = () => {
   return (
@@ -32,10 +32,6 @@ const Hero = () => {
               <img 
                 className="left-[-200px] top-[-20px] sm:left-[-100px] sm:top-[-400px] absolute block w-full sm:w-auto h-auto sm:h-[500px]" 
                 src={notebookL} alt="Notebook Large"
-              />
-              <img 
-                className="absolute sm:relative w-full sm:w-auto bottom-[-110px] right-[-70px] sm:bottom-0 sm:right-0 sm:h-[380px] h-auto" 
-                src={notebookM} alt="Notebook Medium"
               />
               
             </div>

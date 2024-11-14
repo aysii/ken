@@ -52,7 +52,8 @@ const Contact = () => {
                     </div>
                     <div class="max-w-6xl p-5 md:p-12" id="form">
                         <h2 class="mb-4 text-2xl font-bold text-gray-300">Ready to Get Started?</h2>
-                        <form action="https://getform.io/f/ajjezqma" method="POST">
+                        <form action="https://api.web3forms.com/submit" method="POST">
+                        <input type="hidden" name="access_key" value="8e4de9ce-6514-47b2-9628-0bb53d6243b7"/>
                             <div class="mb-6">
                                 <div class="mx-0 mb-1 sm:mb-4">
                                     <div class="mx-0 mb-1 sm:mb-4">
