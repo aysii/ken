@@ -9,7 +9,10 @@ const  About = () => {
             <div>
                 <h2 class="text-3xl font-bold leading-tight gray-primary-color sm:text-4xl lg:text-5xl">Hello, I am <span className='italic'>Ken</span></h2>
                 <p class="max-w-lg mt-3 text-xl leading-relaxed text-gray-400 md:mt-8">
-                Hi, I'm Ken Alcala and I'm Third year college at Cavite State University Bacoor City Campus, taking Bachelor of Science in Computer Science.
+                Welcome.
+I’m Ken Alcala.
+This is a collection of work, shaped by curiosity, growth, and life’s quiet lessons.
+Simple. Honest. Evolving.
                 </p>
             </div>
             <img class="flex md:absolute mx-auto bottom-[-1%] right-[20%] w-[240px] md:w-[450px] h-auto" src={mobile} alt=""/>
