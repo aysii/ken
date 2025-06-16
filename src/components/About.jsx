@@ -10,9 +10,9 @@ const  About = () => {
                 <h2 class="text-3xl font-bold leading-tight gray-primary-color sm:text-4xl lg:text-5xl">Hello, I am <span className='italic'>Ken</span></h2>
                 <p class="max-w-lg mt-3 text-xl leading-relaxed text-gray-400 md:mt-8">
                 Welcome.
-I’m Ken Alcala.
-This is a collection of work, shaped by curiosity, growth, and life’s quiet lessons.
-Simple. Honest. Evolving.
+My name is Ken Alcala, a 21-year-old student from Cavite State University - Bacoor Campus, currently pursuing BS Computer Science as 3rd Year.
+I am a quiet yet determined individual who values growth, honesty, and creativity. I enjoy learning new things and expressing myself.
+I came from a simple, loving family. My parents have always supported my dreams, and they taught me the value of hard work and respect.
                 </p>
             </div>
             <img class="flex md:absolute mx-auto bottom-[-1%] right-[20%] w-[240px] md:w-[450px] h-auto" src={mobile} alt=""/>
